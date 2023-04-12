@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mayckon-amaral/mayckon-amaral/blob/main/assest/header.gif" alt="Oi, eu sou o Mayckon">
+  <img height="200em"src="https://github.com/mayckon-amaral/mayckon-amaral/blob/main/assest/header.gif" alt="Oi, eu sou o Mayckon">
 </p>
 
 <details>
@@ -11,11 +11,18 @@
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayckon-amaral&label=Profile%20views&color=0e75b6&style=flat" alt="mayckon" /> </p>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayckon-amaral&show_icons=true&layout=compact&langs_count=16&theme=dark" alt="mayckon- amaral" /> </p>
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayckon-amaral&show_icons=true&layout=compact&langs_count=16&theme=dark" alt="mayckon- amaral" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mayckon-amaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt ="mayckon-amaral" />
+ </div>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayckon-amaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt ="mayckon-amaral" /></p>
+<div align="center">
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayckon-amaral&la" alt= "mayckon-amaral" /></p>
+  ![Snake animation](https://github.com/mayckon-amaral/mayckon-amaral/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
-![Snake animation](https://github.com/mayckon-amaral/mayckon-amaral/blob/output/github-contribution-grid-snake.svg) 
+<div align="center">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mayckon-amaral&la" alt= "mayckon-amaral" />
+</div>
 
