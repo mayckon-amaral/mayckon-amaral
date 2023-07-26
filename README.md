@@ -14,13 +14,13 @@
 <p>
   <a href="https://github.com/mayckon-amaral">
     <img
-      height="145px"
+      height="140%"
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayckon-amaral&count_private=true&show_icons=true&theme=dracula"
     />
   </a>
   <a href="https://github.com/mayckon-amaral">
     <img
-      height="145px"
+      height="140%"
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayckon-amaral&layout=compact&theme=dracula"
     />
   </a>
