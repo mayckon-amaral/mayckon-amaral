@@ -12,11 +12,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayckon-amaral&label=Profile%20views&color=0e75b6&style=flat" alt="mayckon" /> </p>
 
 <a href="https://github.com/mayckon-amaral/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=mayckon-amaral&count_private=true&show_icons=true&theme=radical"
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mayckon-amaral&count_private=true&show_icons=true&theme=radical"
     />
 </a>
 <a href="https://github.com/mayckon-amaral/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayckon-amaral&layout=compact&theme=radical"
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayckon-amaral&layout=compact&theme=radical"
     />
 </a>
 
