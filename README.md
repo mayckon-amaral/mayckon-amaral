@@ -11,10 +11,20 @@
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayckon-amaral&label=Profile%20views&color=0e75b6&style=flat" alt="mayckon" /> </p>
 
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayckon-amaral&show_icons=true&layout=compact&langs_count=16&theme=dark" alt="mayckon- amaral" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mayckon-amaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt ="mayckon-amaral" />
- </div>
+<p>
+  <a href="https://github.com/mayckon-amaral">
+    <img
+      height="170px"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayckon-amaral&count_private=true&show_icons=true&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/mayckon-amaral">
+    <img
+      height="170px"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayckon-amaral&layout=compact&theme=dracula"
+    />
+  </a>
+</p>
 
 <div align="center">
 
